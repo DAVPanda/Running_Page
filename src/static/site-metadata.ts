@@ -17,11 +17,11 @@ const data: ISiteMetadataResult = {
   navLinks: [
     {
       name: 'Blog',
-      url: 'https://www.bing.com',
+      url: 'https://github.com/yihong0618/running_page',
     },
     {
       name: 'About',
-      url: 'https://www.bing.com',
+      url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
     },
   ],
 };
