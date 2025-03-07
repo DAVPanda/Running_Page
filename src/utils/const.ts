@@ -35,7 +35,7 @@ const USE_DASH_LINE = true;
 // styling: route line opacity: [0, 1]
 const LINE_OPACITY = 0.5;
 // styling: map height
-const MAP_HEIGHT = 800;
+const MAP_HEIGHT = 500;
 //set to `false` if you want to hide the road label characters
 const ROAD_LABEL_DISPLAY = true;
 // update for now 2024/11/17 the privacy mode is true
@@ -51,7 +51,7 @@ const RICH_TITLE = false;
 const IS_CHINESE = true;
 const USE_ANIMATION_FOR_GRID = false;
 const CHINESE_INFO_MESSAGE = (yearLength: number, year: string): string => {
-  const yearStr = Total === 'Total' ? '所有' : ` ${year} `;
+  const yearStr = year === 'Total' ? '所有' : ` ${year} `;
   return `我用 App 记录自己跑步 ${yearLength} 年了，下面列表展示的是${yearStr}的数据`;
 };
 const ENGLISH_INFO_MESSAGE = (yearLength: number, year: string): string =>
