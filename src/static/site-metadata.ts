@@ -10,7 +10,7 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'LYX Running Page',
+  siteTitle: 'LYX\'S Running Page',
   siteUrl: 'https://davpanda.github.io/Running_Page/',
   logo: 'https://i.imgur.com/A2DzEyn.jpeg',
   description: 'Personal Running Records',
