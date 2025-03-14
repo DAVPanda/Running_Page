@@ -10,9 +10,9 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Running Page',
-  siteUrl: 'https://yihong.run',
-  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+  siteTitle: 'LYX\'S Running Page',
+  siteUrl: 'https://davpanda.github.io/Running_Page/',
+  logo: 'https://i.imgur.com/A2DzEyn.jpeg',
   description: 'Personal site and blog',
   navLinks: [
     {
